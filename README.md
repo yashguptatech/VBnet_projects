@@ -1,1 +1,0 @@
-![demo](https://raw.githubusercontent.com/Abhijith14/VB.NET-PROJECTS/master/readme_assets/main.png)
